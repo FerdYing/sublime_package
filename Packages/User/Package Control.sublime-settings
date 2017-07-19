@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"Babel",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FileHeader",
+		"IMESupport",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SidebarSeparator",
+		"SublimeTmpl",
+		"Terminal",
+		"TrailingSpaces",
+		"Trimmer"
+	]
+}
